@@ -20,6 +20,6 @@ spec:
       containers:
       - image: dockerashu/ashuciscoapp:v0001
         name: ashuciscoapp
-        imagePullPolicy: always 
+        imagePullPolicy: Always 
         resources: {}
 status: {}
